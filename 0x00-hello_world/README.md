@@ -1,4 +1,5 @@
 Contains Files for task 0 to 8
+
 0. Preprocessor
 0-preprocessor: Bash script that runs a C file saved in the variable $CFILE through the preprocessor and saves the result in the file c.
 
@@ -23,7 +24,5 @@ Contains Files for task 0 to 8
 7. Intel
 100-intel: Script that generates the assembly code in Intel syntax of a C file saved in the variable $CFILE; saves the result in an output file of the same name but with a .s extension.
 
-Example: If the C file is main.c, the output is main.s.
 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
-
 101-quote.c: C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error, without using any functions listed in the NAME sesction of the man(3) printf or man(3) puts.
