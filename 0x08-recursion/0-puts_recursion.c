@@ -1,4 +1,4 @@
-#include "school.h"
+#include <stdio.h>
 /**
  * _puts_recursion - a function that prints a new line
  *
