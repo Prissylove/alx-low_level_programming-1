@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _puts_recursion - a function that prints a new line
  *
@@ -15,4 +16,5 @@ void _puts_recursion(char *s)
 	}
 	else
 		_putchar('\n');
+	return 0;
 }
